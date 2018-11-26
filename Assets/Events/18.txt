@@ -1,0 +1,10 @@
+﻿В США изобрели новые патроны с автонаведением на животных
+1
+0
+0
+0
+2
+goal_animals_survival
+goal_animals_reproduction
+110
+110

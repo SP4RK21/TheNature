@@ -1,0 +1,14 @@
+Внимание! На АЭС Белнобыль случился выброс радиоактивных отходов, всё живое в радиусе 10 км подвержено вымиранию
+1
+1
+1
+1
+4
+goal_water_composition
+goal_animals_survival
+goal_air_composition
+goal_plants_soil
+110
+110
+110
+110

@@ -1,0 +1,95 @@
+C:\Users\Visitor4F\Desktop\TheNature\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Visitor4F\Desktop\TheNature\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Visitor4F\Desktop\TheNature\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Visitor4F\Desktop\TheNature\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Visitor4F\Desktop\TheNature\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Visitor4F\Desktop\TheNature\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Visitor4F\Desktop\TheNature\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Visitor4F\Desktop\TheNature\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+C:\Users\Visitor4F\Desktop\TheNature\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Visitor4F\Desktop\TheNature\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\Visitor4F\Desktop\TheNature\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Visitor4F\Desktop\TheNature\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Visitor4F\Desktop\TheNature\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Visitor4F\Desktop\TheNature\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Visitor4F\Desktop\TheNature\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Visitor4F\Desktop\TheNature\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Visitor4F\Desktop\TheNature\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Visitor4F\Desktop\TheNature\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Visitor4F\Desktop\TheNature\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Visitor4F\Desktop\TheNature\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Visitor4F\Desktop\TheNature\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Visitor4F\Desktop\TheNature\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Visitor4F\Desktop\TheNature\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+C:\Users\Visitor4F\Desktop\TheNature\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Visitor4F\Desktop\TheNature\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Visitor4F\Desktop\TheNature\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\Visitor4F\Desktop\TheNature\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Visitor4F\Desktop\TheNature\obj\Debug\Assembly-CSharp.dll
+C:\Users\Visitor4F\Desktop\TheNature\obj\Debug\Assembly-CSharp.pdb
+C:\Users\SP4RK\Desktop\TheNature_upd\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\SP4RK\Desktop\TheNature_upd\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\SP4RK\Desktop\TheNature_upd\Temp\bin\Debug\nunit.framework.dll
+C:\Users\SP4RK\Desktop\TheNature_upd\Temp\bin\Debug\UnityEditor.dll
+C:\Users\SP4RK\Desktop\TheNature_upd\Temp\bin\Debug\UnityEditor.iOS.Extensions.Common.dll
+C:\Users\SP4RK\Desktop\TheNature_upd\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+C:\Users\SP4RK\Desktop\TheNature_upd\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\SP4RK\Desktop\TheNature_upd\Temp\bin\Debug\UnityEngine.dll
+C:\Users\SP4RK\Desktop\TheNature_upd\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\SP4RK\Desktop\TheNature_upd\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\SP4RK\Desktop\TheNature_upd\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\SP4RK\Desktop\TheNature_upd\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\SP4RK\Desktop\TheNature_upd\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\SP4RK\Desktop\TheNature_upd\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\SP4RK\Desktop\TheNature_upd\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\SP4RK\Desktop\TheNature_upd\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\SP4RK\Desktop\TheNature_upd\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\SP4RK\Desktop\TheNature_upd\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\SP4RK\Desktop\TheNature_upd\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\SP4RK\Desktop\TheNature_upd\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\SP4RK\Desktop\TheNature_upd\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\SP4RK\Desktop\TheNature_upd\Temp\bin\Debug\UnityEngine.xml
+C:\Users\SP4RK\Desktop\TheNature_upd\Temp\bin\Debug\UnityEditor.xml
+C:\Users\SP4RK\Desktop\TheNature_upd\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\SP4RK\Desktop\TheNature_upd\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\SP4RK\Desktop\TheNature_upd\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\SP4RK\Desktop\TheNature_upd\Temp\bin\Debug\nunit.framework.xml
+C:\Users\SP4RK\Desktop\TheNature_upd\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\SP4RK\Desktop\TheNature_upd\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\SP4RK\Desktop\TheNature_upd\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\SP4RK\Desktop\TheNature_upd\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\SP4RK\Desktop\TheNature_upd\obj\Debug\Assembly-CSharp.dll
+C:\Users\SP4RK\Desktop\TheNature_upd\obj\Debug\Assembly-CSharp.pdb
+C:\Users\SP4RK\Desktop\The Nature\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\SP4RK\Desktop\The Nature\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\SP4RK\Desktop\The Nature\Temp\bin\Debug\nunit.framework.dll
+C:\Users\SP4RK\Desktop\The Nature\Temp\bin\Debug\UnityEditor.dll
+C:\Users\SP4RK\Desktop\The Nature\Temp\bin\Debug\UnityEditor.iOS.Extensions.Common.dll
+C:\Users\SP4RK\Desktop\The Nature\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+C:\Users\SP4RK\Desktop\The Nature\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\SP4RK\Desktop\The Nature\Temp\bin\Debug\UnityEngine.dll
+C:\Users\SP4RK\Desktop\The Nature\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\SP4RK\Desktop\The Nature\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\SP4RK\Desktop\The Nature\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\SP4RK\Desktop\The Nature\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\SP4RK\Desktop\The Nature\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\SP4RK\Desktop\The Nature\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\SP4RK\Desktop\The Nature\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\SP4RK\Desktop\The Nature\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\SP4RK\Desktop\The Nature\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\SP4RK\Desktop\The Nature\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\SP4RK\Desktop\The Nature\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\SP4RK\Desktop\The Nature\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\SP4RK\Desktop\The Nature\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\SP4RK\Desktop\The Nature\Temp\bin\Debug\UnityEngine.xml
+C:\Users\SP4RK\Desktop\The Nature\Temp\bin\Debug\UnityEditor.xml
+C:\Users\SP4RK\Desktop\The Nature\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\SP4RK\Desktop\The Nature\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\SP4RK\Desktop\The Nature\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\SP4RK\Desktop\The Nature\Temp\bin\Debug\nunit.framework.xml
+C:\Users\SP4RK\Desktop\The Nature\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\SP4RK\Desktop\The Nature\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\SP4RK\Desktop\The Nature\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\SP4RK\Desktop\The Nature\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\SP4RK\Desktop\The Nature\obj\Debug\Assembly-CSharp.dll
+C:\Users\SP4RK\Desktop\The Nature\obj\Debug\Assembly-CSharp.pdb
